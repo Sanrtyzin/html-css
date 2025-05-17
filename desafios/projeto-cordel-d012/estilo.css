@@ -3,3 +3,18 @@
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;
 }
+
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: var(--fonte1);
+}
+
+.cabecalho {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
