@@ -4,7 +4,7 @@
     --fonte3: 'Sriracha', cursive;
 }
 
-html {
+* {
     padding: 0;
     margin: 0;
 }
@@ -16,5 +16,6 @@ body {
 .cabecalho {
     background-color: black;
     color: white;
+    min-height: 150px;
     text-align: center;
 }
